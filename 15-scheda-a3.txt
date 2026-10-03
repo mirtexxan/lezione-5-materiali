@@ -1,0 +1,22 @@
+A3 — RIPRENDERE UN LAVORO IN UNA NUOVA CHAT
+Caso didattico fittizio. Lavorate da soli; confrontatevi dopo la vostra prova, se volete.
+
+MATERIALI
+Usate il vostro master v3. Se non lo avete, scaricate il master v3 di esempio. Scaricate anche F1–F8. La pagina «Materiali A3» contiene i link. F9 è nella sezione successiva: tenetela chiusa finché non avete una prima scaletta.
+
+I QUATTRO PASSAGGI
+1. Aprite una nuova Chat e allegate master v3 e F1–F8. Scrivete un checkpoint che dica qual è il primo compito, quali file usare e dove fermarsi.
+2. Chiedete una scaletta di sei minuti per il briefing degli accompagnatori. Salvatela come v1 prima di aprire altre fonti.
+3. Solo ora aprite F9. Confrontatela con master v3 e scaletta v1. Decidete quali frasi cambiare e salvate le nuove versioni dei file coinvolti.
+4. Scrivete il checkpoint per chi riprende domani: file correnti, prima azione e cosa resta da verificare.
+
+DA MOSTRARE NEL DEBRIEF
+- Checkpoint iniziale accanto alla scaletta v1: si capisce l'incarico e il punto di arresto?
+- Master v3/v4 e scaletta v1/v2 affiancati: quale frase cambia dopo F9 in ciascun file?
+- Checkpoint finale letto senza spiegazione orale: permette a un collega di trovare i file correnti e ripartire?
+
+SE NON POTETE APRIRE UNA NUOVA CHAT
+Scrivete i messaggi come se doveste inviarli. Fate voi una scaletta usando master e fonti, poi applicate F9 ai file. Non inventate una risposta dell'AI.
+
+ESEMPI FACOLTATIVI, DA APRIRE DOPO
+La pagina dei materiali offre un primo checkpoint, un follow-up, una scaletta, un prompt di correzione e un checkpoint finale. Servono per confrontare le vostre scelte, non per copiarle prima della prova.

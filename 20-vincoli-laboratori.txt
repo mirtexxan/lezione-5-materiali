@@ -1,0 +1,5 @@
+CASO DIDATTICO FITTIZIO — DUE LABORATORI, UN DOCENTE
+
+36 studenti devono frequentare sia informatica sia robotica nella stessa mattina. Ogni laboratorio ospita al massimo 18 studenti. Le attività durano 75 minuti e il cambio d'aula richiede almeno 15 minuti. I due spazi sono disponibili dalle 10:00 alle 11:15 e dalle 11:30 alle 12:45.
+
+Il dato che cambia il problema: un solo docente conduce entrambe le attività. Non può seguire due laboratori nello stesso momento. Al momento la scuola non ha confermato un secondo docente né altre fasce orarie.

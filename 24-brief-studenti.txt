@@ -1,0 +1,21 @@
+BRIEF DELLE SLIDE PER GLI STUDENTI — CASO GITA FITTIZIO
+
+Stato: esempio di brief dopo la revisione del docente. È il file che userete come input nell'A5.
+Fonte dello stato: MASTER-GITA-v4. Questa scheda seleziona le informazioni per un prodotto, non sostituisce il master.
+
+Pubblico: studenti del biennio che parteciperanno alla visita.
+Scopo: capire come si svolgerà l'attività al museo, che cosa osservare e come prepararsi.
+Prodotto: sei card proiettate, leggibili anche dopo la lezione.
+
+Dentro:
+- accoglienza alle 9:15 e ingresso nella visita alle 9:45, senza confondere i due momenti;
+- attività nella sala conferenze, con due esperimenti sull'energia, una domanda sul taccuino e discussione con l'operatore;
+- taccuino da portare;
+- ritrovo per il trasporto ancora da comunicare.
+
+Fuori:
+- vecchie bozze, ipotesi sull'orario, scambi amministrativi e dettagli su chi invia la comunicazione alle famiglie;
+- numero effettivo dei partecipanti, che non è ancora noto e non serve a spiegare l'attività;
+- informazioni generali sul museo non presenti nelle fonti del caso.
+
+Regola di revisione: ogni card deve avere una funzione distinta nella progressione. I dati aperti restano esplicitamente aperti; non riempite il programma con orari o tappe inventate.

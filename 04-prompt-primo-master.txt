@@ -1,0 +1,5 @@
+PROMPT DA COPIARE — PRIMO MASTER
+
+Usa l'incarico e le fonti iniziali che ti ho allegato per proporre il primo master della gita. Separa fatti confermati, decisioni già prese e punti ancora aperti. Per ogni fatto indica la fonte precisa. Non inventare orari, date, numeri effettivi o responsabili. Prima mostrami la bozza e le ambiguità che devo decidere; non scrivere ancora briefing, comunicazione o slide.
+
+Dopo la risposta: confronta ogni dato con F1–F3, correggi le ambiguità e salva nel file MASTER-GITA-v1.md soltanto la versione che approvi. Il file non si aggiorna da solo quando la Chat produce una risposta.

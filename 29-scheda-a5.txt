@@ -1,0 +1,18 @@
+A5 — DAL MASTER A UN PRIMO OUTLINE
+
+Caso fittizio della gita. Partite da MASTER-GITA-v4 (file 13) e BRIEF-STUDENTI (file 24). Non usate l'outline di esempio come input: lo aprirete dopo aver prodotto e corretto il vostro.
+
+PREPARAZIONE
+1. Aprite una nuova Chat e allegate i due file. Controllate che la Chat li riconosca entrambi.
+2. Rileggete il brief: gli studenti devono capire perché vanno al museo, che cosa faranno e come prepararsi. Il master contiene anche informazioni per altri pubblici: non vanno tutte nelle slide.
+
+PROMPT DI PARTENZA
+«Ti allego MASTER-GITA-v4 e il brief per gli studenti. Proponi un outline di sei card, non le slide complete. Per ciascuna indica funzione, titolo, contenuto indispensabile e fonte. Apri con il senso della visita; distingui accoglienza e ingresso; lascia il ritrovo come dato ancora da comunicare. Non inserire informazioni del museo che non sono nei file. Fermati alla bozza: rileggerò io la progressione.»
+
+DOPO LA PRIMA RISPOSTA
+3. Leggete i sei titoli in ordine, come se parlaste alla classe. Una card arriva troppo presto? Due fanno lo stesso lavoro? Chiedete una modifica precisa, senza far riscrivere tutto per inerzia.
+4. Controllate che ogni fatto sia nel master o nel brief. In particolare, 9:15 e 9:45 sono momenti diversi; il ritrovo per il trasporto non è ancora noto.
+5. Salvate il vostro outline. Solo ora aprite il file 26: è un possibile risultato con cui confrontarvi, non una risposta obbligata.
+
+OUTPUT
+Sei card con funzione, titolo, contenuto e fonte; una modifica motivata alla prima bozza. Non costruite ancora il deck.

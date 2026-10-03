@@ -1,0 +1,8 @@
+NUOVE FONTI DOPO MASTER v1 — CASO DIDATTICO FITTIZIO
+
+F4 — Messaggio informale di un collega, 6 maggio
+«Mi hanno detto che il museo ci aspetta alle 9:45.»
+Il collega non allega un'email del museo né indica chi gli abbia comunicato l'orario.
+
+F5 — Estratto del verbale organizzativo della scuola, 6 maggio
+«La segreteria deve ancora confermare l'orario d'ingresso nella visita. Fino alla comunicazione della segreteria i materiali per famiglie e studenti non riporteranno un orario d'ingresso come definitivo.»

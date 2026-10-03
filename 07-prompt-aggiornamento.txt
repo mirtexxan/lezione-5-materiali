@@ -1,0 +1,5 @@
+PROMPT DA COPIARE — PROPOSTA DI AGGIORNAMENTO
+
+Confronta F4 e F5 con il master v1 che stiamo usando. Proponi soltanto le righe da modificare: prima, dopo e fonte. Distingui ciò che è confermato da ciò che va verificato. Non riscrivere il file e non produrre ancora i tre materiali. Aspetta la mia scelta.
+
+Per l'A2, usa il tuo master v2 e F6–F8. Mantieni la richiesta di una proposta, senza applicazione automatica. Dopo aver verificato le fonti, comunica alla Chat quali modifiche approvi; soltanto allora salva la tua v3.

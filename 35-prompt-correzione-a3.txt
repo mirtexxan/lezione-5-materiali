@@ -1,0 +1,12 @@
+PROMPT DI CORREZIONE — ESEMPIO DOPO F9
+
+Allega o passa alla Chat:
+- MASTER-GITA-v3.md;
+- la tua scaletta-briefing-v1.md;
+- F9, 12-messaggio-nuovo-museo.txt.
+
+Poi invia:
+
+«Confronta l'email F9 con MASTER-GITA-v3 e scaletta-briefing-v1. Indicami quali frasi cambieresti in ciascun file e cita F9. Mostra solo le modifiche proposte: non riscrivere tutto e fermati prima di salvare.»
+
+Controlla le proposte sulla fonte. Se le approvi, salva tu MASTER-GITA-v4.md e scaletta-briefing-v2.md. Mantieni separati fatti confermati e punti ancora aperti.

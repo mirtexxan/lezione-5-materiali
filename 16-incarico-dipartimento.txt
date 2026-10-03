@@ -1,0 +1,17 @@
+CASO DIDATTICO FITTIZIO — COMUNICAZIONE SU UNA PROVA COMUNE
+
+Il dipartimento di italiano ha discusso una prova comune per le classi seconde. Un docente deve preparare una email ai colleghi. Ha un verbale con le decisioni e una bozza di email che contiene possibili errori.
+
+Questo caso è diverso dalla gita. Qui il problema non è la continuità del master: è scegliere che cosa chiedere alla Chat quando si allegano dei file.
+
+Documenti:
+- 17-verbale-prova-comune.txt: fonte delle decisioni del dipartimento;
+- 18-bozza-email-dipartimento.txt: testo da controllare, non fonte delle decisioni.
+
+Quattro operazioni possibili sullo stesso pacchetto:
+1. Estrarre le decisioni dal verbale.
+2. Confrontare la bozza con il verbale.
+3. Trasformare le decisioni in una nuova email.
+4. Valutare se una email già scritta sia pronta per l'invio.
+
+La Chat può proporre, ma il docente verifica il verbale e decide quale testo inviare.

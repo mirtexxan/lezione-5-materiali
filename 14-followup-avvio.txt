@@ -1,0 +1,7 @@
+FOLLOW-UP — ESEMPIO DOPO IL PRIMO CHECKPOINT
+
+Prima invia il checkpoint di partenza con MASTER-GITA-v3 e le fonti F1–F8. Leggi la risposta e controlla che la Chat abbia capito i materiali e il lavoro da fare. Dopo il tuo controllo, invia:
+
+«Ora prepara una scaletta in cinque punti per il briefing degli accompagnatori. Per ogni informazione importante, indica da quale file arriva. Se manca una conferma, scrivi che cosa dobbiamo chiedere. Fermati alla scaletta.»
+
+Salva il risultato come scaletta-briefing-v1.md. Non aprire F9 prima che questa bozza esista.

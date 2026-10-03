@@ -1,0 +1,13 @@
+CHECKPOINT — ESEMPIO DI PRIMO MESSAGGIO ALLA NUOVA CHAT
+
+Allega prima:
+- MASTER-GITA-v3.md;
+- 02-fonti-iniziali-gita.txt;
+- 06-nota-e-verbale.txt;
+- 09-nuove-fonti-gita.txt.
+
+Poi invia questo messaggio:
+
+Ti passo il master v3 e le fonti della gita. Prima di scrivere, dimmi quali file hai ricevuto, che cosa sappiamo già e su che cosa dobbiamo ancora chiedere conferma. Fermati qui: controllo io.
+
+Questo è un esempio preparato per la lezione, non la trascrizione di una risposta reale della Chat. Il master resta il documento completo dello stato approvato. Per riprendere, il checkpoint chiarisce quali file usare, quale compito affrontare per primo, che cosa verificare prima di generare e dove fermarsi per il controllo.

@@ -1,9 +1,9 @@
-PROMPT — DAL VOSTRO OUTLINE A GAMMA
+PROMPT BREVE — SOLO SE USATE L'AGENT DI GAMMA
 
-In Gamma portate l'outline approvato nell'A5. Se vedete Paste, incollatelo lì; nel percorso Agent, incollate la stessa richiesta e l'outline nella conversazione iniziale. Se la modalità scelta mostra un piano prima della generazione, leggete l'ordine delle sei card e correggetelo prima di proseguire. Usate questa richiesta insieme al vostro outline:
+Nel campo del messaggio dell'Agent incollate l'istruzione seguente. Subito sotto incollate il vostro outline A5. Con la modalità Paste può bastare l'outline, senza questo prompt.
 
-Costruisci una prima presentazione di sei card per gli studenti del biennio a partire dall'outline che incollo sotto. Mantieni l'ordine e la funzione di ogni card. Usa soltanto i fatti presenti nell'outline: 9:15 e 9:45 sono due momenti distinti; il ritrovo del trasporto resta «da comunicare». Non aggiungere dettagli sul museo o sul trasporto.
+Crea sei card per studenti del biennio. Segui l'ordine e la funzione delle card nell'outline qui sotto. Non aggiungere fatti che non ci sono.
 
 [INCOLLA QUI IL TUO OUTLINE A5]
 
-Dopo la generazione guardate il filmstrip prima di rifinire le singole card. Se avete un vostro outline, usate quello. Il file 26 è solo un esempio da cui partire se non avete completato l'A5.
+Se Gamma mostra un piano prima della generazione, controllate l'ordine. Dopo la generazione, leggete il filmstrip prima di ritoccare le singole card.

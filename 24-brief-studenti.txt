@@ -1,21 +1,11 @@
-BRIEF DELLE SLIDE PER GLI STUDENTI — CASO GITA FITTIZIO
+BRIEF — SEI CARD PER GLI STUDENTI DEL BIENNIO
 
-Stato: esempio di brief dopo la revisione del docente. È il file che userete come input nell'A5.
-Fonte dello stato: MASTER-GITA-v4. Questa scheda seleziona le informazioni per un prodotto, non sostituisce il master.
+Versione rivista dal docente, da usare insieme a MASTER-GITA-v4 nell'A5. Questo brief sceglie che cosa entra nella presentazione: non sostituisce il master.
 
-Pubblico: studenti del biennio che parteciperanno alla visita.
-Scopo: capire come si svolgerà l'attività al museo, che cosa osservare e come prepararsi.
-Prodotto: sei card proiettate, leggibili anche dopo la lezione.
+Prepara sei card per gli studenti del biennio. Devono capire perché andiamo al museo, che cosa faranno e come prepararsi. Le card saranno proiettate in classe e dovranno restare comprensibili anche dopo la lezione.
 
-Dentro:
-- accoglienza alle 9:15 e ingresso nella visita alle 9:45, senza confondere i due momenti;
-- attività nella sala conferenze, con due esperimenti sull'energia, una domanda sul taccuino e discussione con l'operatore;
-- taccuino da portare;
-- ritrovo per il trasporto ancora da comunicare.
+Apri con lo scopo della visita. Tieni distinti l'accoglienza delle 9:15 e l'ingresso nella visita delle 9:45. Spiega che l'attività si svolgerà nella sala conferenze: osserveremo due esperimenti sull'energia e gli studenti annoteranno sul taccuino una domanda da discutere con l'operatore. Il taccuino va portato. Il punto di ritrovo del trasporto è ancora da comunicare: non inventarlo.
 
-Fuori:
-- vecchie bozze, ipotesi sull'orario, scambi amministrativi e dettagli su chi invia la comunicazione alle famiglie;
-- numero effettivo dei partecipanti, che non è ancora noto e non serve a spiegare l'attività;
-- informazioni generali sul museo non presenti nelle fonti del caso.
+Non servono la mail alle famiglie, le vecchie bozze, il numero effettivo dei partecipanti né una storia generale del museo. Sono informazioni che non aiutano questi studenti a capire la visita.
 
-Regola di revisione: ogni card deve avere una funzione distinta nella progressione. I dati aperti restano esplicitamente aperti; non riempite il programma con orari o tappe inventate.
+Rileggi la sequenza: ogni card deve avere una funzione distinta. I dati ancora aperti restano tali; non riempire il programma con orari o tappe inventate.

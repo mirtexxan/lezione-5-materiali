@@ -1,25 +1,21 @@
-A6 — PRODURRE E REVISIONARE UN RISULTATO
+A6 — DALL'OUTLINE ALLA VOSTRA PRESENTAZIONE
 
-Materiali comuni: MASTER-GITA-v4, brief degli studenti e outline prodotto nell'A5. Se non avete completato A5, usate l'outline di esempio (file 26) come punto di partenza, non come soluzione obbligata. La v5 è soltanto un esempio di master aggiornato dopo la produzione: non è una fonte di partenza.
+Partite dall'outline che avete costruito in A5. Se non l'avete completato, nel pacchetto trovate un outline d'esempio (file 26): usatelo per partire, non come risultato obbligato. Tenete a portata di mano anche brief e master v4. La v5 verrà solo dopo il prodotto.
 
-Scegliete uno dei tre percorsi:
+1. PRIMA GENERAZIONE
+In Gamma create sei card a partire dall'outline, non dall'intero master. Se usate Paste, può bastare incollare l'outline. Se usate l'Agent, il file 39 contiene una breve istruzione da mettere nel campo del messaggio, seguita dal vostro outline. Se Gamma mostra un piano prima di generare, controllate l'ordine delle card.
 
-GAMMA
-Create sei card dall'outline A5. Il file 39 contiene il prompt da usare con il vostro outline. Se Gamma propone un piano, controllate la sequenza prima della generazione. Poi leggete il filmstrip prima di cambiare i testi. Scegliete un tema coerente per l'intero deck e intervenite localmente sulle card che hanno un problema specifico. Non chiedete a Gamma di decidere fatti aperti o contenuti mancanti.
+2. RILETTURA DELLA SEQUENZA
+Guardate il filmstrip. Lo scopo della visita arriva abbastanza presto? Ci sono card che dicono due volte la stessa cosa? Spostate, unite o eliminate una card se serve. Annotate che cosa avete cambiato e perché.
 
-STORYBOARD
-Se Gamma non è disponibile o se preferite concentrarvi sulla struttura, disegnate la sequenza completa delle sei card e sviluppate due card campione. Per ciascuna scrivete titolo, testo essenziale, visuale utile e fonte. Non basta una lista di titoli: le due card sviluppate devono poter essere lette dal collega.
+3. UNA CARD DA MIGLIORARE
+Scegliete una card difficile da leggere. Può essere un problema di testo, gerarchia o layout. Correggetela senza cambiare i fatti confermati e senza far apparire come deciso il ritrovo per il trasporto. Conservate un prima/dopo.
 
-REVISIONE DI UN MATERIALE ESISTENTE
-Scegliete un deck o storyboard che avete già preparato per il caso. Annotate prima che cosa non funziona in una card e nel flusso complessivo. Intervenite soltanto sui difetti scelti; preservate fatti, punti aperti e parti che già funzionano. Mostrate un prima/dopo leggibile.
+4. PROVA DEI DUE LETTORI
+Come studente: capisco perché vado al museo, che cosa farò, che cosa porto e la differenza tra accoglienza alle 9:15 e ingresso alle 9:45? Come collega: riconosco subito i dati confermati e quelli da comunicare? Potete fare entrambi i controlli anche da soli, cambiando punto di vista.
 
-CONTROLLI COMUNI
-- I due orari della gita sono distinti.
-- La sala conferenze è il luogo confermato.
-- Il ritrovo per il trasporto resta aperto.
-- Le informazioni degli studenti hanno una fonte nel master o nel brief.
-- Testo, titoli e immagini sono leggibili e hanno una funzione.
-- Un collega riesce a capire il risultato senza la vostra spiegazione orale. Se lavorate da soli, riprendetelo dopo una pausa come se fosse di un altro docente.
+SE GAMMA NON È DISPONIBILE
+Preparate lo storyboard completo delle sei card e sviluppatene due. Per le due card scrivete titolo, testo essenziale, visuale utile e fonte. Fate comunque una correzione alla sequenza e una alla leggibilità, mostrando il prima/dopo.
 
-OUTPUT
-Deck o storyboard, una decisione sulla sequenza e una sulla gerarchia. Per ciascuna decisione indicate prima, dopo, motivo e ciò che avete conservato. Salvate il prodotto. Il file 40 mostra come riportarlo nella Chat o nel Project con il master v4 e chiedere una proposta di aggiornamento. Approvate solo le modifiche coerenti con il prodotto e le vostre decisioni; lasciate aperti i dati ancora ignoti.
+DA CONSEGNARE
+La vostra presentazione, oppure storyboard e due card sviluppate; una correzione alla sequenza e una a una card, ciascuna spiegata in poche righe. Salvate il prodotto. Solo dopo riportatelo nella Chat o nel Project e confrontatelo con il master: il file 40 contiene un prompt di esempio per farlo.
